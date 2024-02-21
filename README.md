@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning full stack web development!<br>I'm looking to go into front end web design, and learn how to make UIs pop!<br>I flashmod ipods that are almost as old as me.<br>Feel free to reach out to me on GitHub if you want some fire collabs on your projects!
+I'm currently learning full stack web development!<br>I'm looking to go into front end web design, and learn how to make UIs pop!<br>I flashmod ipods that are almost as old as me.<br>Feel free to reach out to me on Youtube through community or comments (Content is coming soon!) if you want some fire collabs on your projects!
 
 
 ## 🌐 Socials:
