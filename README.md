@@ -1,5 +1,4 @@
-# 💫 About Me:
-🌃 Hi, I'm Joe Rashid! <br>🏆 I'm currently learning full stack web development!<br>🥭I'm looking to go into front end web design, and learn how to make UIs pop!<br>💎 I flashmod ipods that are almost as old as me.<br>📺 Feel free to reach out to me on Youtube through community or comments
+🌃 Hi, I'm Joe Rashid! <br>🏆 I'm currently learning full stack web development!<br>🥭I'm looking to go into front end web design, and learn how to make UIs pop!<br>💎 I flashmod ipods that are almost as old as me.<br>📺 Feel free to reach out to me on Youtube through community or comments <br>🗿 I made my first full stack application recently, [check it out](https://joebnb.onrender.com)
 
 
 # 💻 Tech Stack:
