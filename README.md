@@ -8,7 +8,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=poedude5229&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=poedude5229&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TechnoMancerWinXP)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TechnoMancerWinXP)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=poedude5229&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
