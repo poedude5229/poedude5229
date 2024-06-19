@@ -1,5 +1,5 @@
 🌃 Hi, I'm Joe Rashid! <br>🏆 I'm currently learning full stack web development!<br>🥭I'm looking to go into front end web design, and learn how to make UIs pop!<br>💎 I flashmod ipods that are almost as old as me.🗿 <br>📺 Feel free to reach out to me on Youtube through community or comments <br>
-
+### For business inquires, please email me at [joerashid@protonmail.com](mailto:joerashid@protonmail.com)
 #### I made a full stack BandCamp spin-off recently, [check it out](https://bandfish.onrender.com) . 
 #### I also collaborated on a group project that replicated UberEats, called [WuberEats!](https://wubereats.onrender.com)
 
