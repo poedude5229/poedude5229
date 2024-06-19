@@ -1,4 +1,7 @@
-🌃 Hi, I'm Joe Rashid! <br>🏆 I'm currently learning full stack web development!<br>🥭I'm looking to go into front end web design, and learn how to make UIs pop!<br>💎 I flashmod ipods that are almost as old as me.<br>📺 Feel free to reach out to me on Youtube through community or comments <br>🗿 I made my first full stack application recently, [check it out](https://joebnb.onrender.com) (The dynos take forever to load, shoutout Render free tier🤪)
+🌃 Hi, I'm Joe Rashid! <br>🏆 I'm currently learning full stack web development!<br>🥭I'm looking to go into front end web design, and learn how to make UIs pop!<br>💎 I flashmod ipods that are almost as old as me.<br>📺 Feel free to reach out to me on Youtube through community or comments <br>🗿 
+
+#### I made a full stack BandCamp spin-off recently, [check it out](https://bandfish.onrender.com) . 
+#### I also collaborated on a group project that replicated UberEats, called [WuberEats!](https://wubereats.onrender.com)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TechnoMancerWinXP)
